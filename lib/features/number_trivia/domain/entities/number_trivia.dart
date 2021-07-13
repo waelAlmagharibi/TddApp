@@ -1,5 +1,6 @@
 import 'package:equatable/equatable.dart';
 import 'package:meta/meta.dart';
+import 'package:convert/convert.dart';
 
 class NumberTrivia extends Equatable{
   final String text;
